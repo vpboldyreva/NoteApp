@@ -94,7 +94,7 @@ NoteApp.sln
 
 | Ветка | Назначение |
 |-------|-----------|
-| main | Стабильная версия |
+| master | Стабильная версия |
 | feature/notes | Команды заметок |
 | feature/admin | Команды администрирования |
 | feature/watchdog | WatchDog мониторинг |

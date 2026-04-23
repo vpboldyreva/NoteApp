@@ -1,0 +1,17 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.db
+*.db-shm
+*.db-wal
+.session
+app.log
+version.json
+version_remote.json
+
+## OS
+.DS_Store
+Thumbs.db
